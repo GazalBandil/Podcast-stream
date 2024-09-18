@@ -38,36 +38,7 @@ The application is built using the following technologies:
 - Google Auth
 - Firebase
 
-## Steps to start the app
 
-### Start the react app
-Go to client folder
-```
-cd client
-```
-Install the node modules
-```
-npm install
-```
-Start the react app
-```
-npm start
-```
-
-### Start the backend server
-Open a new terminal
-Go to server folder
-```
-cd server
-```
-Install the node modules
-```
-npm start
-```
-Start the server
-```
-npm start
-```
 ### Here is live demo of our web app:
 
 [Screencast from 27-04-23 07:21:38 PM IST.webm](https://user-images.githubusercontent.com/64485885/234887002-60554cc9-c298-42bd-a310-42334f8717a8.webm)
