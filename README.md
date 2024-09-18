@@ -1,16 +1,4 @@
 # Podstream
-<div align='center'>
-
-![GitHub issues](https://img.shields.io/github/issues/rishavchanda/Podstream)
-![GitHub forks](https://img.shields.io/github/forks/rishavchanda/Podstream)
-![GitHub starts](https://img.shields.io/github/stars/rishavchanda/Podstream)
-![GitHub license](https://img.shields.io/github/license/rishavchanda/Podstream)
-![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
-![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
-![CSS](https://img.shields.io/badge/CSS-Styles-pink)
-![React](https://img.shields.io/badge/React-Components-orange)
-
-</div>
 
 ## Podcast Streaming Application
 
@@ -49,8 +37,6 @@ The application is built using the following technologies:
 ![image](https://user-images.githubusercontent.com/100614635/233979351-604732a6-eb97-4124-a4b9-9a07a22f7f9d.png)
 
 ![image](https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png)
-
-![image](https://user-images.githubusercontent.com/100614635/233979651-69b5dc7f-7c47-404b-9211-dd2a3140bcaa.png)
 
 ![image](https://user-images.githubusercontent.com/100614635/233979805-0d1c2381-afb9-4f24-b935-7cef18ccc57f.png)
 
